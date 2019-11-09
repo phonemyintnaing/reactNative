@@ -4,7 +4,7 @@
     export default class PizzaTranslator extends Component {  
         constructor(props) {  
             super(props);  
-            this.state = {text: ''};  
+            this.state = {text: '' };  
         }  
       
         render() {  
